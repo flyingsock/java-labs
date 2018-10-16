@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/calculator/console/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/datatypes/complex/ComplexValue.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/datatypes/complex/ComplexValueParser.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/datatypes/integer/IntegerValueParser.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/datatypes/vector/Vector3D.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/datatypes/vector/Vector3DParser.java" charset="windows-1251" />
+  </component>
+</project>
