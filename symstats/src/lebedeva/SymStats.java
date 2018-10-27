@@ -6,17 +6,16 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author amricko0b
- * @since 10/14/18
+ * @author flyingsock
  */
 public class SymStats  {
 
-    private static final List<Character> VOWELLS
+    protected static final List<Character> VOWELLS
             = Arrays.asList('А', 'О', 'У', 'Ы', 'И', 'E', 'Ё', 'Э', 'Я', 'Ю', 'Й');
 
-    private final char[] target;
+    protected final char[] target;
 
-    private final Map<Character, Integer> stats = new HashMap<>();
+    protected final Map<Character, Integer> stats = new HashMap<>();
 
     public SymStats(String target) {
         this.target = target.toUpperCase().toCharArray();
